@@ -86,4 +86,4 @@ AI tools assisted with code, tests and documentation for this project, as permit
 
 Built with 💙 for the NASA Space Apps Challenge 2026 — Harohalli.
 
-**🔗 Live Demo:** _(add your deployed link here)_
+**🔗 Live Demo:** _( https://orbitcare-xi.vercel.app/ )_
