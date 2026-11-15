@@ -1,0 +1,1 @@
+{"dependencies":{"@supabase/supabase-js":"^2.45.0"},"description":"Orbitspace backend — astronaut health API backed by Supabase (Postgres). No in-memory or JSON-file database.","main":"server.js","name":"orbitspace-backend","scripts":{"seed":"node seed.js","start":"node server.js","test":"node --test"},"version":"1.0.0"}
